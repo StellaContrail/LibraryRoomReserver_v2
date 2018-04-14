@@ -1,0 +1,103 @@
+﻿-------------------------------------------------------------------
+                                ERROR                              
+-------------------------------------------------------------------
+<Summary>
+NullExceptionError
+<Detail>
+Any input tag with name attribute couldn't be found.
+<Date>
+20:44:40 2018年4月14日
+<Last Fetched HTML Source>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-Transitional.dtd">
+<!-- Content begin -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!-- Browser cache clear -->
+	<meta http-equiv="Pragma" content="no-cache"/>
+	<meta http-equiv="Cache-Control" content="no-cache"/>
+	<meta http-equiv="Expires" content="-1"/>
+	<!-- disable toolbar for IE6.0 later -->
+	<meta http-equiv="imagetoolbar" content="no"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=9, requiresActiveX=true" />
+	
+
+
+<!-- Bind XHTML Template String -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja">
+<head>
+<title id="headTitle">NALIS - System Exception</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="Content-Style-Type" content="text/css"/>
+<meta http-equiv="Content-Script-Type" content="text/javascript"/>
+<meta name="Author" content="NTT Data Kyushu Corp. Nalis Development Team."/>
+<meta name="Description" content="NALIS System Exception"/>
+<link href="/portal/css/common.css?20180414204440" type="text/css" rel="stylesheet" media="screen,print" id="cssComm"/>
+<link href="/portal/css/layout.css?20180414204440" type="text/css" rel="stylesheet" media="screen,print" id="cssSelf01"/>
+<link href="/portal/css/color.css?20180414204440" type="text/css" rel="stylesheet" media="screen,print" id="cssSelf02"/>
+<link href="/portal/css/jquery-ui.custom.css?20180414204440" type="text/css" rel="stylesheet" media="screen,print" id="cssSelf03"/>
+<link href="/portal/css/jquery.mouseinfobox.css?20180414204440" type="text/css" rel="stylesheet" media="screen,print" id="cssSelf04"/>
+<script type="text/javascript" src="/portal/js/jquery.js?20180414204440" id="jsComm"> </script>
+<script type="text/javascript" src="/portal/js/jquery-ui.custom.js?20180414204440" id="jsSelf01"> </script>
+<script type="text/javascript" src="/portal/js/rollover.js?20180414204440" id="jsSelf02"> </script>
+<script type="text/javascript" src="/portal/js/heightLine.js?20180414204440" id="jsSelf04"> </script>
+<script type="text/javascript" src="/portal/js/jquery.scroller.js?20180414204440" id="jsSelf05"> </script>
+<script type="text/javascript" src="/portal/js/jquery.accordion.js?20180414204440" id="jsSelf06"> </script>
+<script type="text/javascript" src="/portal/js/jquery.mouseinfobox.js?20180414204440" id="jsSelf07"> </script>
+<script type="text/javascript" src="/portal/js/jquery.easing.js?20180414204440" id="jsSelf14"> </script>
+<script type="text/javascript" src="/portal/js/jquery.scrollTo.js?20180414204440" id="jsSelf15"> </script>
+<script type="text/javascript" src="/portal/js/jquery.nalis.js?20180414204440" id="jsSelf16"> </script>
+<script type="text/javascript" src="/portal/js/common/common.js?20180414204440" id="jsNalisComm"> </script>
+<script type="text/javascript" src="/portal/js/common/nalis.js?20180414204440" id="jsNalis"> </script>
+<script type="text/javascript" src="/portal/js/shortcut.js?20180414204440" id="jsShortcut"> </script>
+<script type="text/javascript" src="/portal/js/admin/systemExceptionMain.js?20180414204440" id="jsSelf"> </script>
+<script type="text/javascript" src="/portal/js/common/jqueryBaseFnc.js?20180414204440" id="jsCommFncLoad"> </script>
+<script type="text/javascript" src="/portal/js/jquery.noty.js?20180414204440" id="jsNoty"> </script>
+</head>
+<body class="bodyException"><form method="post" id="frmMain">
+<div id="header"> 
+<div id="header-inner" class="clearfix">  <p class="f-left mt15"><img src="/portal/img/logo.png" alt="NALIS" height="31" width="102"/></p>  
+<div class="clearfix w960 f-right">   <br/>  </div>   </div> </div>
+<div id="main"> 
+<div id="mainException" class="clearfix border-bottom mt20 mb10">  <h1 id="dispTitle" style="color:red;">ＥＲＲＯＲ</h1> </div>  <h2 class="mt10">続行不能な例外が発生しました。</h2> 
+<div id="messageArea">
+<div class="clearfix"><p id="btn_msg" class="f-right"><span class="icon-plus"><a href="javascript:void(0);"><span class="ui-icon-alertError ui-icon-alert-l"> </span></a></span></p></div>
+<div id="conts_msg">
+<div class="mb10 ui-widget">
+<ul class="mainWindow ui-state-alertError ui-corner-all scroll_y_mainWindow_message_rows_4">
+<li class="ui-state-alertError-text">
+<div class="clearfix"><span class="ui-icon-alertError ui-icon-alert-l" style="float:left; margin:.2em .3em 0 0;"> </span><h4>エラー：</h4></div>
+<div class="clearfix ml22"><span class="ui-icon-messagePrefix ui-icon-messagePrefix-l w20" style="float:left; margin:.3em .3em 0 0;"> </span><span class="w725 left"><p>致命的なエラーが発生しました。java.lang.reflect.InvocationTargetException</p></span></div></li>
+<li>
+<div class="clearfix ml22"><span class="ui-icon-messagePrefix ui-icon-messagePrefix-l w20" style="float:left; margin:.3em .3em 0 0;"> </span><span class="w725 left"><p>MYL_BOOTH_CALENDAR問い合わせ処理は失敗しました。(メソッド実行例外)</p></span></div></li>
+<li>
+<div class="clearfix ml22"><span class="ui-icon-messagePrefix ui-icon-messagePrefix-l w20" style="float:left; margin:.3em .3em 0 0;"> </span><span class="w725 left"><p>MYL_BOOTH_CALENDAR問い合わせ処理は失敗しました。(対象情報重複例外)</p></span></div></li>
+<li>
+<div class="clearfix ml22"><span class="ui-icon-messagePrefix ui-icon-messagePrefix-l w20" style="float:left; margin:.3em .3em 0 0;"> </span><span class="w725 left"><p>アプリケーション・エラー：処理中の情報は破棄されました。再度ログインが必要です。</p></span></div></li></ul></div></div></div>  
+<div id="buttonArea-exception" class="mb50">  <p class="center mt5">  <a href="javascript:void(0);" id="btnDoEnd" class="btn_medium ml10" onclick="doEnd('処理終了します。よろしいですか？');"><span class="btn_medium_side">終了</span></a>  <a href="javascript:void(0);" id="btnDoLogin" class="btn_medium" onclick="doLogin('/portal/portal/portalLogin','再ログインします。よろしいですか？');"><span class="btn_medium_side">再ログイン</span></a>  </p> </div>  </div>
+<div id="divDelCache"><iframe src="about:blank" style="height:0px;width:0px;visibility:hidden;">this frame prevents back forward cache.</iframe></div><input name="srcActionPath" type="hidden" value="https://opac.lib.niigata-u.ac.jp/portal/admin/systemExceptionMain.do" id="srcActionPath"/><input name="srcOpeId" type="hidden" value="admin" id="srcOpeId"/><input name="srcScreenId" type="hidden" value="systemExceptionMain" id="srcScreenId"/></form><input type="hidden" value="" id="msgNotExist"/></body>
+</html>

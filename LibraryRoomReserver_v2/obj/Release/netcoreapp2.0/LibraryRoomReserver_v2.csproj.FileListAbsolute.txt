@@ -1,0 +1,11 @@
+C:\Users\Contrail\source\repos\LibraryRoomReserver_v2\LibraryRoomReserver_v2\bin\Release\netcoreapp2.0\LibraryRoomReserver_v2.deps.json
+C:\Users\Contrail\source\repos\LibraryRoomReserver_v2\LibraryRoomReserver_v2\bin\Release\netcoreapp2.0\LibraryRoomReserver_v2.runtimeconfig.json
+C:\Users\Contrail\source\repos\LibraryRoomReserver_v2\LibraryRoomReserver_v2\bin\Release\netcoreapp2.0\LibraryRoomReserver_v2.runtimeconfig.dev.json
+C:\Users\Contrail\source\repos\LibraryRoomReserver_v2\LibraryRoomReserver_v2\bin\Release\netcoreapp2.0\LibraryRoomReserver_v2.dll
+C:\Users\Contrail\source\repos\LibraryRoomReserver_v2\LibraryRoomReserver_v2\bin\Release\netcoreapp2.0\LibraryRoomReserver_v2.pdb
+C:\Users\Contrail\source\repos\LibraryRoomReserver_v2\LibraryRoomReserver_v2\obj\Release\netcoreapp2.0\LibraryRoomReserver_v2.csproj.CoreCompileInputs.cache
+C:\Users\Contrail\source\repos\LibraryRoomReserver_v2\LibraryRoomReserver_v2\obj\Release\netcoreapp2.0\LibraryRoomReserver_v2.AssemblyInfoInputs.cache
+C:\Users\Contrail\source\repos\LibraryRoomReserver_v2\LibraryRoomReserver_v2\obj\Release\netcoreapp2.0\LibraryRoomReserver_v2.AssemblyInfo.cs
+C:\Users\Contrail\source\repos\LibraryRoomReserver_v2\LibraryRoomReserver_v2\obj\Release\netcoreapp2.0\LibraryRoomReserver_v2.dll
+C:\Users\Contrail\source\repos\LibraryRoomReserver_v2\LibraryRoomReserver_v2\obj\Release\netcoreapp2.0\LibraryRoomReserver_v2.pdb
+C:\Users\Contrail\source\repos\LibraryRoomReserver_v2\LibraryRoomReserver_v2\obj\Release\netcoreapp2.0\LibraryRoomReserver_v2.csprojResolveAssemblyReference.cache
