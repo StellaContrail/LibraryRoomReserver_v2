@@ -1,4 +1,9 @@
-# LibraryRoomReserver_v2
-某大学の図書館の施設予約を数秒の間に行います。  
-最初に作ったプログラムの方は.NET環境限定、WebComponentによるスクレイピングで行うため低速、という欠点がありましたが、今回のプログラムではGETとPOSTのみを用いることで非常に高速に、NET Coreを用いることでMulti Platformに対応しました。  
-基本的にはデーモン君に渡して常駐させて使います。
+<h1 align="center">Automatic Room Reservation Tool</h1>
+
+## 📃Introduction
+Reserves a room automatically with specified time, id, etc.
+
+## 📄How it works
+Mimics human's behavior when reserving a room using GET/POST request.
+<br>
+Reserving often takes 10 sec - 1 min due to response time from server.
